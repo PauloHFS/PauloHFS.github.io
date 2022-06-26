@@ -1,0 +1,14 @@
+.home {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 75vh;
+}
+
+.home-image {
+    height: 25vw;
+    width: 25vw;
+    object-fit: cover;
+    border-radius: 50%;
+}

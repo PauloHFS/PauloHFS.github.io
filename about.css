@@ -1,0 +1,31 @@
+.about {
+    width: 50vw;
+}
+
+.entry {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    border-bottom: 2px solid #EBEAED;
+    padding-bottom: 1.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.entry-left-title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 28px;
+    letter-spacing: 1px;
+    color: #666666;
+}
+
+.entry-right-tag {
+    text-align: center;
+    border-radius: 50%;
+    background-color: #D7FFE0;
+    padding: 1vh 2vw;
+    color: #018C0F;
+}
