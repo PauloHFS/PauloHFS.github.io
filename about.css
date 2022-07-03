@@ -2,6 +2,15 @@
     width: 50vw;
 }
 
+.about-title {
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 3rem;
+    color: #42446E;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
 .entry {
     display: flex;
     flex-flow: row nowrap;
